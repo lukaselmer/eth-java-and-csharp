@@ -1,0 +1,41 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="A1/CalculatorTest.cs">
+    <Files>
+      <File FileName="A1/ReversePolishNotationCalculator.cs" Line="55" Column="4" />
+      <File FileName="A1/PlusOperand.cs" Line="10" Column="22" />
+      <File FileName="A1/TimesOperand.cs" Line="10" Column="22" />
+      <File FileName="A1/DivideByOperand.cs" Line="10" Column="22" />
+      <File FileName="A1/ICalculatorElement.cs" Line="7" Column="3" />
+      <File FileName="A1/MinusOperand.cs" Line="10" Column="22" />
+      <File FileName="A1/EmptyStackEvaluationException.cs" Line="1" Column="1" />
+      <File FileName="A1/CalculatorTest.cs" Line="104" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="A1" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True">
+          <Node name="A1" expanded="True">
+            <Node name="Calculator" expanded="True">
+              <Node name="CalculatorTest" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
