@@ -109,5 +109,5 @@ UpgradeLog*.XML
 
 .DS_Store
 
-csharp/*/test-results/*
+test-results
 
